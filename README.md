@@ -7,3 +7,6 @@ https://stevenjohncantando.github.io/Bootstrap-Portfolio/
 https://stevenjohncantando.github.io/Psychic-Game/
 
 https://stevenjohncantando.github.io/unit-4-game/
+
+https://stevenjohncantando.github.io/Trivia-Game/
+

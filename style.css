@@ -1,0 +1,40 @@
+body {
+    background: url(https://cdn.gearpatrol.com/wp-content/uploads/2017/11/Ultimate-Desk-Setups-Gear-Patrol-Mobile-1-1940x1300.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ }
+      
+
+.container {
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    vertical-align: middle;
+    background-color: white;
+    background: rgba(255,255,255,0.5);
+    text-align: center;
+ 
+
+
+    
+}
+
+h1 {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 40px;
+
+}
+
+a {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 30px;
+    display: block;
+    color: black;
+}

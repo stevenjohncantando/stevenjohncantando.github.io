@@ -13,3 +13,5 @@ https://stevenjohncantando.github.io/Trivia-Game/
 https://stevenjohncantando.github.io/giftastic/
 
 https://stevenjohncantando.github.io/Train-Schedule/
+
+https://stevenjohncantando.github.io/Updated-Portfolio/
